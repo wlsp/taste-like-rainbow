@@ -110,7 +110,7 @@ body {
 }
 
 /* ======= M E D I A  Q U E R I E S ===== */
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 780px) {
   html {
     height: -webkit-fill-available;
   }
@@ -120,12 +120,11 @@ body {
     ul {
       width: 100%;
       li {
-        font-size: 2em;
+        font-size: 3.3em;
       }
     }
   }
 }
-
 
 @media screen and (max-width: 580px) {
   html {
@@ -143,7 +142,7 @@ body {
   }
 }
 
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 480px) {
   html {
     height: -webkit-fill-available;
   }
@@ -153,7 +152,7 @@ body {
     ul {
       width: 100%;
       li {
-        font-size: 3.3em;
+        font-size: 2em;
       }
     }
   }

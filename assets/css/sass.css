@@ -162,7 +162,7 @@ body {
 }
 
 /* ======= M E D I A  Q U E R I E S ===== */
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 780px) {
   html {
     height: -webkit-fill-available;
   }
@@ -174,7 +174,7 @@ body {
     width: 100%;
   }
   body ul li {
-    font-size: 2em;
+    font-size: 3.3em;
   }
 }
 
@@ -194,7 +194,7 @@ body {
   }
 }
 
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 480px) {
   html {
     height: -webkit-fill-available;
   }
@@ -206,7 +206,7 @@ body {
     width: 100%;
   }
   body ul li {
-    font-size: 3.3em;
+    font-size: 2em;
   }
 }
 /*# sourceMappingURL=sass.css.map */
